@@ -13,3 +13,13 @@ let a = "dsds"
 
 
 
+```javascript
+function dan() {
+    x = 1;
+    y = 2;
+    z = x + y;
+}
+```
+
+
+
